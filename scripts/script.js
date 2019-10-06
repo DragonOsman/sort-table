@@ -9,7 +9,7 @@ function sortTable(table) {
 
     // Loop to go through all rows
     for (let rowIndex = 1; rowIndex < (rows.length - 1); ++rowIndex) {
-      // Get two TDs that need to be compared
+      // Get the first (or next) two adjacent TDs that need to be compared
       const name1 = rows[rowIndex].getElementsByTagName("td")[0];
       const name2 = rows[rowIndex + 1].getElementsByTagName("td")[0];
 
