@@ -1,0 +1,24 @@
+{
+  "name": "sort-list-task",
+  "version": "1.0.0",
+  "description": "Solution for \"sort the table\" task on javascript.info",
+  "main": "scripts/script.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DragonOsman/sort-table.git"
+  },
+  "keywords": [
+    "javascript.info-task",
+    "task",
+    "sort-the-table"
+  ],
+  "author": "Osman Zakir",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DragonOsman/sort-table/issues"
+  },
+  "homepage": "https://github.com/DragonOsman/sort-table#readme",
+  "devDependencies": {
+    "eslint": "^6.5.1"
+  }
+}
